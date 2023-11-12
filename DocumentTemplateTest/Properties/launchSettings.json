@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DocumentTemplateTest": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\users\\clalu\\Source\\repos\\Contract Express\\ContractExpress\\DocumentTemplateTest\\Flight_Confirmation.docx\" \"D:\\users\\clalu\\Source\\repos\\Contract Express\\ContractExpress\\DocumentTemplateTest\\Flight_Confirmation.json\""
+    }
+  }
+}

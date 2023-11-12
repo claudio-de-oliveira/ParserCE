@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cqwD2Dqg9vKh9k82lbPNCx4+c8p9Yna37QcI/nyFltjdppSK3qN1NKMOxovCqfwDSkytlXfOnhwe9zbK3dW8dQ==",
+  "success": true,
+  "projectFilePath": "D:\\users\\clalu\\Source\\repos\\Contract Express\\ContractExpress\\JsonElement\\JsonElement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\clalu\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
